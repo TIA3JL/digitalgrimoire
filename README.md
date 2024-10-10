@@ -1,4 +1,4 @@
 # digitalgrimoire
 Digital grimoire
 
-<img src="mumbleConnect.gif" width="200" />
+<img src="mumbleConnect.gif" width="640" />
