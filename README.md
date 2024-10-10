@@ -1,4 +1,4 @@
 # digitalgrimoire
 Digital grimoire
 
-![steps](mumbleConnect.gif)
+<img src="mumbleConnect.gif" width="200" />
